@@ -5,5 +5,25 @@ div {
     text-align: center;
     font-weight: bold;
     color:white;
+}
+
+.number-1 {
+    font-family:verdana, DejaVu sans, sans-serif;
+    background-color: #e54343;
+    font-size: 24px;
+}
+.number-2 {
+    font-weight: bold;
+}
+#number-1 {
+    background-color: #1f1f1f;
+    font-family: sans-serif;
+    color: #1a61b6;
+    font-weight: bold;
+}
+#number-2 {
+    background-color: #00ffff;
+    font-size: 24;
+    font-weight:bold;
 
 }
