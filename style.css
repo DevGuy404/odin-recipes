@@ -1,4 +1,4 @@
-div {
+#just-div {
     background-color :red;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 32px;
@@ -26,4 +26,66 @@ div {
     font-size: 24;
     font-weight:bold;
 
+}
+
+.intervret, .fancy {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
+
+.intervret {
+    background-color: black;
+    color: white;
+}
+
+.fancy {
+    background-color: yellow;
+}
+
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
+
+.container .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+.para,
+small-para {
+    color: hsl(0, 100%, 50%);
+}
+.para {
+    font-size: 22px;
+}
+.button {
+    background-color: rgb(225, 225, 255);
+    color: rgb(0,0,0);
+    font-size: 20px;
+}
+div.text {
+    color: green;
+    font-size: 22px;
+}
+.small-para {
+    font-size: 14px;
+}
+#confirm-button {
+    background: green;
+    color: white;
+    font-weight: bold;
+}
+div.child {
+    color:red;
+    font-size: 14px;
 }
